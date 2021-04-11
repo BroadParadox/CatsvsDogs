@@ -18,5 +18,4 @@ Model 1, Arch (15,3)
 
 |Image1|Image2|Image3|
 | ---- | ---- | ---- |
-| ![2021-04-11 (18)](https://user-images.githubusercontent.com/80119090/114308958-2b624600-9b03-11eb-92c6-1463b2bda341.png) | ![2021-04-11 (19)](https://user-images.githubusercontent.com/80119090/114308961-3321ea80-9b03-11eb-83b8-89fca2a92b44.png)  | ![2021-04-11 (19)](https://user-images.githubusercontent.com/80119090/114308970-3d43e900-9b03-11eb-9aa9-2575a53667a5.png)
- |
+| ![2021-04-11 (18)](https://user-images.githubusercontent.com/80119090/114308958-2b624600-9b03-11eb-92c6-1463b2bda341.png) | ![2021-04-11 (19)](https://user-images.githubusercontent.com/80119090/114308961-3321ea80-9b03-11eb-83b8-89fca2a92b44.png)  | ![2021-04-11 (19)](https://user-images.githubusercontent.com/80119090/114308970-3d43e900-9b03-11eb-9aa9-2575a53667a5.png) |
