@@ -1,11 +1,15 @@
 # CatsvsDogs
  SoC project 
+
+By, </br>
+Ayush Raj Tarway
+
  
-Model 1 uses two layers of Conv2D and MaxPool2D i.e 4 layers in total.
+•Model 1 uses two layers of Conv2D and MaxPool2D i.e 4 layers in total.
 
-Model 2 uses 2 layers of Conv2D.
+•Model 2 uses 2 layers of Conv2D.
 
-Model 3 uses only 1 layer each of Conv2D and MaxPool2D
+•Model 3 uses only 1 layer each of Conv2D and MaxPool2D
  
 |Model no.| Arch |Epochs|  Acc  | Loss | Val_acc | Val_loss |Image1|Image2|Image3|
 |:-------:|:----:|:----:|:-----:|:----:|:-------:|:--------:|:----:|:----:|:----:|
