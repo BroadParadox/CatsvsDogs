@@ -1,4 +1,4 @@
-# CatsvsDogs
+# Computer Vision Web App
  SoC project 
 
 By, </br>
