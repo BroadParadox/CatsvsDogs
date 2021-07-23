@@ -1,6 +1,6 @@
 # Computer-Vision
 
-SoC project 
+SoC project <br>
 This was a learning project pursued to step into the world of Machine Learning and Computer vision to be specific.<br>
 
 This project was divided into many parts which include:
